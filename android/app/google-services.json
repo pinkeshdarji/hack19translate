@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371249313080",
+    "firebase_url": "https://hacktranslate-1679e.firebaseio.com",
+    "project_id": "hacktranslate-1679e",
+    "storage_bucket": "hacktranslate-1679e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371249313080:android:96cba0a189b02d36",
+        "android_client_info": {
+          "package_name": "hackiodashdevs.example.com.hacktranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371249313080-nfou8l0l7acvl6rhr7oo5porce8t7bgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzpkQsh4B5Esd5M_ZhUKeJLiEqUDPmmSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371249313080-nfou8l0l7acvl6rhr7oo5porce8t7bgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
