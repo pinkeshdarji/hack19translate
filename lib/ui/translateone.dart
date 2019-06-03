@@ -17,8 +17,7 @@ class Translateone extends StatefulWidget {
 class _TranslateoneState extends State<Translateone> {
   String translatedText = '';
   final TextEditingController _textController = new TextEditingController();
-  String url =
-      'https://translation.googleapis.com/language/translate/v2?target=gu&key=AIzaSyBt-pjMZD3an-BcyzGgN23Lx6tqTiyaWTI&q=how are you';
+  String url = '';
   String input = "";
   final translator = GoogleTranslator();
 
